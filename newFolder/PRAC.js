@@ -5,3 +5,9 @@
 // }
 // var bmi =bmiCalculator(65,1.8);
 //  console.log(bmi);
+
+
+// var n = Math.random();
+// console.log(n);
+
+
